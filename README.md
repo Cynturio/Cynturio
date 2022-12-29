@@ -4,8 +4,6 @@
 </div>
 
 <br><br>
-
-<img align = "right" width = "450px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 <!--FIM cabeçalho HELLO WORD-->
 
 ## Olá! Eu sou o Caique Xavier 📺
