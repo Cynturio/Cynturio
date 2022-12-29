@@ -1,3 +1,13 @@
+<!--cabeçalho HELLO WORD-->
+<div align = "center">
+  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+</div>
+
+<br><br>
+
+<img align = "right" width = "450px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
+<!--FIM cabeçalho HELLO WORD-->
+
 ## Olá! Eu sou o Caique Xavier 📺
 
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC4nonGGlGz-XLS-5V-lbvw)
